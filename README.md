@@ -10,7 +10,7 @@ It simulates a real-world **Governance, Risk, and Compliance (GRC)** use case.
 
 ## 🖼️ Dashboard Preview
 
-<img src="[C:\Users\Ananya\OneDrive\Pictures\Screenshots\Screenshot 2026-04-17 211519.png](https://github.com/ananya348/Risk-Analysis-Dashboard/blob/main/Screenshot%202026-04-17%20211519.png)" width="800">
+<img src="https://raw.githubusercontent.com/ananya348/Risk-Analysis-Dashboard/main/Screenshot%202026-04-17%20211519.png" width="800">
 ---
 
 ## 🛠️ Tech Stack
